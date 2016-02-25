@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./florumetcoronar00unkngoog_0254.png"; bbox 0 0 2300 3884; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 100 149 1903 3398">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 100 149 1903 3398">
+     <span class='ocr_line' id='line_1_1' title="bbox 100 149 1903 3398; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 100 149 1903 3398; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 650 143 1298 197">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 574 143 1298 197">
+     <span class='ocr_line' id='line_1_2' title="bbox 650 143 1298 197; baseline 0.006 -5.58"><span class='ocrx_word' id='word_1_2' title='bbox 650 143 950 194; x_wconf 50' lang='lat' dir='ltr'>S-&#39;ANTO</span> <span class='ocrx_word' id='word_1_3' title='bbox 977 149 1127 194; x_wconf 53' lang='lat'><em>11:³1</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1146 147 1220 197; x_wconf 76' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1259 147 1298 183; x_wconf 66' lang='lat'>-.21</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
